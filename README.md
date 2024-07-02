@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**weslleyedu/weslleyedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Weslley Edurdo Duvilierz da Silva
 
-Here are some ideas to get you started:
+ Estou estudando no alura
+ Estou me desenvolvendo na linuagem javascript
+ Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos
+ 
+###  você pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+weslleyduvilier@gmail.com
+
+@weslleyzs._
